@@ -12,7 +12,7 @@ A collection of my Data Science, Business Intelligence, and Analytics projects, 
 This repository showcases selected projects across data analysis, business intelligence, machine learning, and interactive reporting.
 
 ## Projects
-### 🗳️ Pakistan Election 2024 — Election Data Analysis
+### Pakistan Election 2024 — Election Data Analysis
 
 Analytical report examining Pakistan Election 2024 results with a focus on Khyber Pakhtunkhwa (KPK), including voter demographics, turnout, party-wise seat distribution, and voting patterns across National and Provincial Assembly elections.
 
@@ -29,6 +29,16 @@ analysis, and dashboard development.
 **Tools:** Python · SQL · Scikit-learn · Plotly · Dash · Folium
 
 🔗 [View Project](https://github.com/luqman-abban/IBM-Data-Science-Capstone)
+
+### HR Analytics Dashboard — Power BI
+
+Interactive HR analytics dashboard analyzing workforce demographics, employee attrition, job satisfaction, salary distribution, and key workforce KPIs.
+
+**Key Metrics:** 1,470 Employees · 16% Attrition · 7 Years Average Tenure · $6.5K Average Salary
+
+**Tools:** Power BI · Data Modeling · DAX · Data Visualization
+
+🔗 [View GitHub Repository](https://github.com/luqman-abban/Power_BI_HR)
 
 ### Bank Term Deposit Prediction
 
