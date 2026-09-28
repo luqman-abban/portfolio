@@ -12,6 +12,13 @@ A collection of my Data Science, Business Intelligence, and Analytics projects, 
 This repository showcases selected projects across data analysis, business intelligence, machine learning, and interactive reporting.
 
 ## Projects
+### 🚀 SpaceX SQL Analysis
+
+SQL-based analysis of SpaceX launch data using Python, SQLite, and Jupyter Notebook. The project explores launch sites, payloads, booster performance, landing outcomes, and mission results while demonstrating analytical SQL techniques.
+
+**Tools:** SQL · SQLite · Python · Pandas · Jupyter Notebook
+
+🔗 [View GitHub Repository]([YOUR_SPACEX_REPO_LINK](https://github.com/luqman-abban/SpaceX-SQL-Analysis-Notebook))
 
 ### Bank Term Deposit Prediction
 
@@ -29,6 +36,8 @@ Exploratory data analysis of Zomato restaurants across India, covering restauran
 **Tools:** Python · Pandas · Matplotlib · Seaborn · Statistics
 
 🔗 [View GitHub Repository](https://github.com/luqman-abban/Zomato-India)
+
+
 
 
 
