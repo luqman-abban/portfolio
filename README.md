@@ -18,7 +18,7 @@ SQL-based analysis of SpaceX launch data using Python, SQLite, and Jupyter Noteb
 
 **Tools:** SQL · SQLite · Python · Pandas · Jupyter Notebook
 
-🔗 [View GitHub Repository]([[YOUR_SPACEX_REPO_LINK](https://github.com/luqman-abban/SpaceX-SQL-Analysis-Notebook)])
+🔗 [View GitHub Repository](https://github.com/luqman-abban/SpaceX-SQL-Analysis-Notebook)
 
 ### Bank Term Deposit Prediction
 
