@@ -39,6 +39,15 @@ Interactive dashboards built with **Tableau** and **Looker Studio**, analyzing e
 
 *Dashboard data has been anonymized to protect client confidentiality.*
 
+### ⚙️ Business Automation & AI Workflows
+
+Built and tested automation workflows using **n8n, Make, and Zapier**, integrating AI, APIs, and e-commerce platforms to automate repetitive marketing and operational tasks.
+
+**Tools:** n8n · Make · Zapier · AI · APIs
+
+🔗 [View Automation Workflows](https://github.com/luqman-abban/automation)
+
+
 ### Pakistan Election 2024 — Election Data Analysis
 
 Analytical report examining Pakistan Election 2024 results with a focus on Khyber Pakhtunkhwa (KPK), including voter demographics, turnout, party-wise seat distribution, and voting patterns across National and Provincial Assembly elections.
