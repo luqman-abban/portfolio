@@ -23,6 +23,7 @@ Containerized with Docker and deployed on AWS using ECR, ECS/Fargate, Secrets Ma
 
 
 🚀 [Live AWS Dashboard](https://d2b484aqwhl149.cloudfront.net)
+*This is a portfolio demonstration. The dashboard is password-protected; please contact me for access*
 
 ###  Automotive Event Intelligence Dashboards
 
