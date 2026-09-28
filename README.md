@@ -22,5 +22,13 @@ Machine learning project that predicts whether a customer is likely to subscribe
 🔗 [View GitHub Repository](https://github.com/luqman-abban/Bank_ML)  
 🚀 [Live Demo — Hugging Face Spaces](https://huggingface.co/spaces/luqmanabban/bank_prediction)
 
+### 🍽️ Zomato India — Exploratory Data Analysis
+
+Exploratory data analysis of Zomato restaurants across India, covering restaurant distribution, ratings, pricing, cuisines, customer engagement, and city-wise trends.
+
+**Tools:** Python · Pandas · Matplotlib · Seaborn · Statistics
+
+🔗 [View GitHub Repository](https://github.com/luqman-abban/Zomato-India)
+
 
 
