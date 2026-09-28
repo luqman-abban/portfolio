@@ -12,6 +12,13 @@ A collection of my Data Science, Business Intelligence, and Analytics projects, 
 This repository showcases selected projects across data analysis, business intelligence, machine learning, and interactive reporting.
 
 ## Projects
+### 🗳️ Pakistan Election 2024 — Election Data Analysis
+
+Analytical report examining Pakistan Election 2024 results with a focus on Khyber Pakhtunkhwa (KPK), including voter demographics, turnout, party-wise seat distribution, and voting patterns across National and Provincial Assembly elections.
+
+**Tools:** Python · Pandas · Data Visualization · Statistical Analysis
+
+🔗 [View GitHub Repository](https://github.com/luqman-abban/2024_Election_reporting)
 
 ### IBM Data Science Capstone – SpaceX Falcon 9 Landing Prediction
 
@@ -22,14 +29,6 @@ analysis, and dashboard development.
 **Tools:** Python · SQL · Scikit-learn · Plotly · Dash · Folium
 
 🔗 [View Project](https://github.com/luqman-abban/IBM-Data-Science-Capstone)
-
-### 🚀 SpaceX SQL Analysis
-
-SQL-based analysis of SpaceX launch data using Python, SQLite, and Jupyter Notebook. The project explores launch sites, payloads, booster performance, landing outcomes, and mission results while demonstrating analytical SQL techniques.
-
-**Tools:** SQL · SQLite · Python · Pandas · Jupyter Notebook
-
-🔗 [View GitHub Repository](https://github.com/luqman-abban/SpaceX-SQL-Analysis-Notebook)
 
 ### Bank Term Deposit Prediction
 
