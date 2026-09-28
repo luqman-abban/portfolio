@@ -12,6 +12,17 @@ A collection of my Data Science, Business Intelligence, and Analytics projects, 
 This repository showcases selected projects across data analysis, business intelligence, machine learning, and interactive reporting.
 
 ## Projects
+
+### ☁️ Event Intelligence Dashboard — AWS Deployment
+
+Built a password-protected Event Intelligence Dashboard with Python and Streamlit, transforming event survey data into interactive KPIs, attendee segmentation, and feedback insights.
+
+Containerized with Docker and deployed on AWS using ECR, ECS/Fargate, Secrets Manager, Application Load Balancer, and CloudFront, demonstrating the transition from a local analytics application to a production-style cloud deployment.
+
+**Tools:** Python · Streamlit · Docker · AWS ECR · ECS/Fargate · Secrets Manager · ALB · CloudFront
+
+🚀 [Live AWS Dashboard](https://d2b484aqwhl149.cloudfront.net)
+
 ### Pakistan Election 2024 — Election Data Analysis
 
 Analytical report examining Pakistan Election 2024 results with a focus on Khyber Pakhtunkhwa (KPK), including voter demographics, turnout, party-wise seat distribution, and voting patterns across National and Provincial Assembly elections.
