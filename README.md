@@ -13,7 +13,7 @@ This repository showcases selected projects across data analysis, business intel
 
 ## Projects
 
-### ☁️ Event Intelligence Dashboard — AWS Deployment
+###  Event Intelligence Dashboard — AWS Deployment
 
 Built a password-protected Event Intelligence Dashboard with Python and Streamlit, transforming event survey data into interactive KPIs, attendee segmentation, and feedback insights.
 
@@ -21,7 +21,19 @@ Containerized with Docker and deployed on AWS using ECR, ECS/Fargate, Secrets Ma
 
 **Tools:** Python · Streamlit · Docker · AWS ECR · ECS/Fargate · Secrets Manager · ALB · CloudFront
 
+
 🚀 [Live AWS Dashboard](https://d2b484aqwhl149.cloudfront.net)
+
+###  Automotive Event Intelligence Dashboards
+
+Interactive dashboards built with **Tableau** and **Looker Studio**, analyzing event performance, attendee engagement, survey insights, and KPIs.
+
+**Tools:** Tableau · Looker Studio · Business Intelligence
+
+
+🔗 [View Dashboard Collection](https://github.com/luqman-abban/Auto_BI_Dashboards)
+
+*Dashboard data has been anonymized to protect client confidentiality.*
 
 ### Pakistan Election 2024 — Election Data Analysis
 
