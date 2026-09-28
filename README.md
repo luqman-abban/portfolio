@@ -15,6 +15,9 @@ This repository showcases selected projects across data analysis, business intel
 
 ###  Event Intelligence Dashboard — AWS Deployment
 
+<img width="1549" height="801" alt="image" src="https://github.com/user-attachments/assets/8d2c37b7-5770-420a-8123-6116491cd7ab" />
+
+
 Built a password-protected Event Intelligence Dashboard with Python and Streamlit, transforming event survey data into interactive KPIs, attendee segmentation, and feedback insights.
 
 Containerized with Docker and deployed on AWS using ECR, ECS/Fargate, Secrets Manager, Application Load Balancer, and CloudFront, demonstrating the transition from a local analytics application to a production-style cloud deployment.
