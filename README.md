@@ -12,6 +12,17 @@ A collection of my Data Science, Business Intelligence, and Analytics projects, 
 This repository showcases selected projects across data analysis, business intelligence, machine learning, and interactive reporting.
 
 ## Projects
+
+### IBM Data Science Capstone – SpaceX Falcon 9 Landing Prediction
+
+End-to-end data science project covering API data collection, web scraping,
+data wrangling, SQL analysis, visualization, machine learning, geospatial
+analysis, and dashboard development.
+
+**Tools:** Python · SQL · Scikit-learn · Plotly · Dash · Folium
+
+🔗 [View Project](https://github.com/luqman-abban/IBM-Data-Science-Capstone)
+
 ### 🚀 SpaceX SQL Analysis
 
 SQL-based analysis of SpaceX launch data using Python, SQLite, and Jupyter Notebook. The project explores launch sites, payloads, booster performance, landing outcomes, and mission results while demonstrating analytical SQL techniques.
